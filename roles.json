@@ -1,3 +1,8 @@
 {
-  "roles": {}
+  "tokens": [],
+  "roles": {
+    "8028218896": [
+      "reseller"
+    ]
+  }
 }
