@@ -1,3 +1,10 @@
 {
-  "roles": {}
+  "roles": {
+    "8392526316": {
+      "username": "nailong040320",
+      "roles": [
+        "reseller"
+      ]
+    }
+  }
 }
